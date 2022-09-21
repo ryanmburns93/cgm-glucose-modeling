@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Full PHI dataset backups
+/Nightscout_Backups/*

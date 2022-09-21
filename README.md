@@ -50,6 +50,6 @@ Additional insights and algorithmic direction was gathered from the organization
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
